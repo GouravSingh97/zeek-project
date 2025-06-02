@@ -1,0 +1,19 @@
+Network Traffic Summary - Monday 02 June 2025 06:39:38 PM IST
+----------------------
+Total Connections:
+53
+Top 5 Source IPs:
+     35 2409:40d4:18:3482:bb29:d33:fb21:172a
+      8 192.168.186.238
+      1 fe80::10ab:faff:fe97:9ca2
+Top 5 DNS Queries:
+      4 ssl.gstatic.com
+      4 encrypted-tbn0.gstatic.com
+Suspicious Notices:
+#open	2025-06-02-18-37-21
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	fuid	file_mime_type	file_desc	proto	note	msg	sub	src	dst	p	n	peer_descr	actions	email_dest	suppress_for	remote_location.country_code	remote_location.region	remote_location.city	remote_location.latitude	remote_location.longitude
+#types	time	string	addr	port	addr	port	string	string	string	enum	enum	string	string	addr	addr	port	count	string	set[enum]	set[string]	interval	string	string	string	double	double
+1748869641.013157	-	-	-	-	-	-	-	-	-	CaptureLoss::Too_Little_Traffic	Only observed 0 TCP ACKs and was expecting at least 1.	-	-	-	-	-	-	Notice::ACTION_LOG	(empty)	3600.000000	-	-	-	-	-
+#close	2025-06-02-18-37-21
+Packet Loss Rate:
+1748869641.013157	0.0
