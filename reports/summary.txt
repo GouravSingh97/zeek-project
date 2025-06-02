@@ -3,9 +3,9 @@ Network Traffic Summary - Monday 02 June 2025 06:39:38 PM IST
 Total Connections:
 53
 Top 5 Source IPs:
-     35 2409:40d4:18:3482:bb29:d33:fb21:172a
-      8 192.168.186.238
-      1 fe80::10ab:faff:fe97:9ca2
+     35 2869:40h4:98:9882:bb79:d36:fb11:172b
+      8 192.118.196.244
+      1 fk90::11ab:ghff:hj97:9kl1
 Top 5 DNS Queries:
       4 ssl.gstatic.com
       4 encrypted-tbn0.gstatic.com
